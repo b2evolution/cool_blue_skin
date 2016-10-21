@@ -17,9 +17,9 @@ if( !defined('EVO_MAIN_INIT') ) die( 'Please, do not access this page directly.'
  *
  * ATTENTION: if you make a new skin you have to change the class name below accordingly
  */
-class coolblue_Skin extends Skin
+class cool_blue_Skin extends Skin
 {
-	var $version = '1.0';
+	var $version = '1.1.1';
 	/**
 	 * Get default name for the skin.
 	 * Note: the admin can customize it.

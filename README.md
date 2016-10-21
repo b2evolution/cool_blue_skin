@@ -2,6 +2,11 @@
 
 <img src="skinshot.png" />
 
+#### v1.1.1
+- Skin name change
+- Skin version update
+- New skinshot
+
 #### v1.1.
 - Sitewide_header included for easier multi-blogging experience
 - Visual improvements and adaptation to v6.6.+
